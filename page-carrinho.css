@@ -1,0 +1,33 @@
+body{
+    background-color: teal;
+}
+
+
+div#carrinho_lados{
+    background-color: rgb(255, 255, 255);
+   padding: 200px;
+    border: black;
+    box-shadow: 4px 5px 40px -12px black;
+}
+
+
+div#carrinho_lados p{
+    text-align: center;
+}
+
+table#tabela-carrinho{
+    
+    border: 1px solid brown;
+    padding: 15px;
+}
+
+table#tabela-carrinho td{
+    padding: 15px;
+    border: 1px solid brown; 
+}
+
+.coluna{
+    color: white;
+    background-color: brown;
+    
+}
